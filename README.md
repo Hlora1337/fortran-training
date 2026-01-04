@@ -29,3 +29,13 @@ Technically, done 3rd of January, uploaded on 4th of January. There are two prog
 1. finds maximum number out of 3 integers
 
 2. prints if year is leap or not
+
+04.01.2025
+
+made 2 small programs:
+
+1. Grade Checker
+
+2. Month Checker
+
+Also did task from Exercism.io, yeah, but with small help of AI, so, doesn't count
