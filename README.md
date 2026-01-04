@@ -23,3 +23,9 @@ I also added 3 things:
 3. And converter from seconds to hours, minutes and seconds, yeah
 
 03.01.2026
+
+Technically, done 3rd of January, uploaded on 4th of January. There are two programs:
+
+1. finds maximum number out of 3 integers
+
+2. prints if year is leap or not
