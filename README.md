@@ -39,3 +39,11 @@ made 2 small programs:
 2. Month Checker
 
 Also did task from Exercism.io, yeah, but with small help of AI, so, doesn't count
+
+11.01.2025
+
+Had procrastination strike, so, now I'm returned
+
+Completed exercises in Exercism (I'll make list of them one day)
+
+And played with loops just a bit like a little kid.
