@@ -30,7 +30,7 @@ Technically, done 3rd of January, uploaded on 4th of January. There are two prog
 
 2. prints if year is leap or not
 
-04.01.2025
+04.01.2026
 
 made 2 small programs:
 
@@ -40,10 +40,16 @@ made 2 small programs:
 
 Also did task from Exercism.io, yeah, but with small help of AI, so, doesn't count
 
-11.01.2025
+11.01.2026
 
 Had procrastination strike, so, now I'm returned
 
 Completed exercises in Exercism (I'll make list of them one day)
 
 And played with loops just a bit like a little kid.
+
+14.01.2026
+
+Played with loops a bit, pretty useless things like printing what you write until it's == 0, and until it's / 7 = 0 or / 13 == 0
+
+Made guessing game, it's pretty fun for me, yeah ^_^
