@@ -57,3 +57,5 @@ Made guessing game, it's pretty fun for me, yeah ^_^
 17.01.2026
 
 At 15th of January wrote Euclidal algortithm, Fibonacci algorithm and reverse number converter in Fortran, practicing iterative way of writing.
+
+Also just wrote Factorial program in 10 minutes, dunno if it's fast
