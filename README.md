@@ -53,3 +53,7 @@ And played with loops just a bit like a little kid.
 Played with loops a bit, pretty useless things like printing what you write until it's == 0, and until it's / 7 = 0 or / 13 == 0
 
 Made guessing game, it's pretty fun for me, yeah ^_^
+
+17.01.2026
+
+At 15th of January wrote Euclidal algortithm, Fibonacci algorithm and reverse number converter in Fortran, practicing iterative way of writing.
