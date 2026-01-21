@@ -63,3 +63,7 @@ Also just wrote Factorial program in 10 minutes, dunno if it's fast
 19.01.2026
 
 made really quick Multiplication table, learning array intrinsics, test programs will come later
+
+21.01.2026
+
+Made simple program that counts sum, mean, min/max and amount of positive and negative numbers from array. Compiled file in ArrayManipulations folder
