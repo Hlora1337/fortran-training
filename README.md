@@ -1,6 +1,8 @@
 # fortran-training
 here I have tasks that I did fully for fun and matter of working as Fortran Developer
 
+(For single files, use GFortran, for multiple files I compiled through fpm, and on linux, so mind that)
+
 01.01.2026
 
 added HelloWorld.f90 because I can, as a start of job
@@ -67,3 +69,10 @@ made really quick Multiplication table, learning array intrinsics, test programs
 21.01.2026
 
 Made simple program that counts sum, mean, min/max and amount of positive and negative numbers from array. Compiled file in ArrayManipulations folder
+
+25.01.2026
+
+Enough procrastination, need work
+
+Firstly, played with Matrixes, check MatrixManipulation.f90
+
