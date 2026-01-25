@@ -1,0 +1,9 @@
+name = "PWF"
+version = "0.1.0"
+
+[[executable]]
+name = "PWF"
+source-dir = "src"
+main = "PWF.f90"
+
+[dependencies]
