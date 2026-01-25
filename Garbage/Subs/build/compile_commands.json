@@ -1,0 +1,35 @@
+[
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "././src/subs.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build/gfortran_46B186824249A86E",
+         "-Ibuild/gfortran_46B186824249A86E",
+         "-o",
+         "build/gfortran_46B186824249A86E/PWS/src_subs.f90.o"
+      ],
+      "directory": "/home/meow/Documents/Fortran Training/fortran-training/24.01.2026/Subs",
+      "file": "././src/subs.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "src/PlayWithSubroutines.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build/gfortran_46B186824249A86E",
+         "-Ibuild/gfortran_46B186824249A86E",
+         "-o",
+         "build/gfortran_46B186824249A86E/PWS/src_PlayWithSubroutines.f90.o"
+      ],
+      "directory": "/home/meow/Documents/Fortran Training/fortran-training/24.01.2026/Subs",
+      "file": "src/PlayWithSubroutines.f90"
+   }]

@@ -1,0 +1,9 @@
+name = "PWS"
+version = "0.1.0"
+
+[[executable]]
+name = "PWS"
+source-dir = "src"
+main = "PlayWithSubroutines.f90"
+
+[dependencies]
