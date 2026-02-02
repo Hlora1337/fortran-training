@@ -79,3 +79,11 @@ Firstly, played with Matrixes, check MatrixManipulation.f90
 Secondly, finally first fpm built program of simple subroutines
 
 And lastly, fpm built program with few functions, yeah. Send it later (or sent, check for function folder)
+
+02.02.2026
+
+Procrastination won so here are the programs of the day from plan made by Claude Jopus:
+
+STOOPID play with Nested cycles because I was a brick
+
+Made normal short multiplication table matrix (25 lines of code)
