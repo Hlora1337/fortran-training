@@ -87,3 +87,5 @@ Procrastination won so here are the programs of the day from plan made by Claude
 STOOPID play with Nested cycles because I was a brick
 
 Made normal short multiplication table matrix (25 lines of code)
+
+Made program that calculates sum by diagonal (All numbers randomly generated, in code it's noticeable)
