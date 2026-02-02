@@ -1,12 +1,24 @@
-program table
+program MT
   implicit none
-  integer :: i, j, result
+  integer :: n, i, j
+  integer, allocatable :: matrix(:, :)
 
-  do i = 1, 10
-    do j = 1, 10
-      print *, i, "multiply", j, "is: ", i * j
+  print *, "Enter multiplication table size"
+  read (*,*) n
+
+  allocate(matrix(n, n))
+
+  do i = 1, n
+    do j = 1, n
+      matrix(i, j) = i * j
     end do
-    print *, " "
   end do
 
-  end program table
+  print *, "Multiplication table is: "
+  do i = 1, n
+    print *, matrix(i, 1:n)
+  end do
+
+  deallocate(matrix)
+
+end program MT
