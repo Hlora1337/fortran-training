@@ -89,3 +89,13 @@ STOOPID play with Nested cycles because I was a brick
 Made normal short multiplication table matrix (25 lines of code)
 
 Made program that calculates sum by diagonal (All numbers randomly generated, in code it's noticeable)
+
+03.02.2026
+
+Kinda did it yesterday, but whatever, Understood what is transpose and how it really works
+
+Also i wanted to share thoughts on "Please No More Loops" webinar presentation by Damian Rouson. I found it rather interesting. My first programming webinar and it was enjoyable enough. Learnt some stuff, understood that Fortran is still alive somehow, and now using fpm in programs that need more than one file, I think it was noticeable. And fpm is like Rust Cargo, so it's an insane piece of code. Glad I'm using it
+
+And I also connected slackware-current repositories to my Salix Linux, so kinda nice having gcc 15, not gcc 11
+
+
