@@ -1,0 +1,9 @@
+name = "SimpleNumbers"
+version = "0.1.0"
+
+[[executable]]
+name = "SimpleNumbers"
+source-dir = "src"
+main = "SimpleNumbers.f90"
+
+[dependencies]

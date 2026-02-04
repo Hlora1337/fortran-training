@@ -1,0 +1,35 @@
+[
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "././src/SimpFunc.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build/gfortran_46B186824249A86E",
+         "-Ibuild/gfortran_46B186824249A86E",
+         "-o",
+         "build/gfortran_46B186824249A86E/SimpleNumbers/src_SimpFunc.f90.o"
+      ],
+      "directory": "/home/meow/Documents/Fortran-Training/fortran-training/02.05.2026/PrimeNumberCheck",
+      "file": "././src/SimpFunc.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "src/SimpleNumbers.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build/gfortran_46B186824249A86E",
+         "-Ibuild/gfortran_46B186824249A86E",
+         "-o",
+         "build/gfortran_46B186824249A86E/SimpleNumbers/src_SimpleNumbers.f90.o"
+      ],
+      "directory": "/home/meow/Documents/Fortran-Training/fortran-training/02.05.2026/PrimeNumberCheck",
+      "file": "src/SimpleNumbers.f90"
+   }]
