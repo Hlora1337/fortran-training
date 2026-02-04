@@ -106,3 +106,5 @@ Also checked webinar "Fortran is all you needed"... and well... it was almost a 
 
 05.02.2026
 
+Made a Prime Number Check program through fpm. Just download a folder, open terminal and print under root fpm run in folder.
+
