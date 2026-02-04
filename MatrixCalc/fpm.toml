@@ -1,0 +1,9 @@
+name = “MatrixCalc"
+version = "0.1.0"
+
+[[executable]]
+name = "MatrixCalc"
+source-dir = "src"
+main = "Main.f90"
+
+[dependencies]
