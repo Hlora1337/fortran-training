@@ -108,3 +108,4 @@ Also checked webinar "Fortran is all you needed"... and well... it was almost a 
 
 Made a Prime Number Check program through fpm. Just download a folder, open terminal and print under root fpm run in folder.
 
+I played a lot with functions and subroutines cause i didn't really understand them, so in SubsAndFuncs you'll find them
