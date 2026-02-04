@@ -1,0 +1,9 @@
+name = "SubsAndFuncs"
+version = "0.1.0"
+
+[[executable]]
+name = "SubsAndFuncs"
+source-dir = "src"
+main = "TestProgram.f90"
+
+[dependencies]

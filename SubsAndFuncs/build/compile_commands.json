@@ -1,0 +1,35 @@
+[
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "././src/Module.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build/gfortran_46B186824249A86E",
+         "-Ibuild/gfortran_46B186824249A86E",
+         "-o",
+         "build/gfortran_46B186824249A86E/SubsAndFuncs/src_Module.f90.o"
+      ],
+      "directory": "/home/meow/Documents/Fortran-Training/fortran-training/02.05.2026/SubsAndFuncs",
+      "file": "././src/Module.f90"
+   },
+   {
+      "arguments": [
+         "gfortran",
+         "-c",
+         "src/TestProgram.f90",
+         "-fimplicit-none",
+         "-Werror=implicit-interface",
+         "-ffree-form",
+         "-J",
+         "build/gfortran_46B186824249A86E",
+         "-Ibuild/gfortran_46B186824249A86E",
+         "-o",
+         "build/gfortran_46B186824249A86E/SubsAndFuncs/src_TestProgram.f90.o"
+      ],
+      "directory": "/home/meow/Documents/Fortran-Training/fortran-training/02.05.2026/SubsAndFuncs",
+      "file": "src/TestProgram.f90"
+   }]
