@@ -98,4 +98,11 @@ Also i wanted to share thoughts on "Please No More Loops" webinar presentation b
 
 And I also connected slackware-current repositories to my Salix Linux, so kinda nice having gcc 15, not gcc 11
 
+04.02.2026
+
+I killed my Salix Linux because with gcc-gfortran 11 I can't use Fortran 2023, that will be handy, so now I have Fedora LXDE Spin 43. Yeah, LXDE. And I switched from Code::Blocks to VS Code with Modern Fortran that finally works damnit, and Cute Pink Light Theme, that's really cute
+
+Also checked webinar "Fortran is all you needed"... and well... it was almost a copy of "Please No More Loops", even speaker was same, kinda a disappointment, but I guess it's normal to utilize same webinar to tell more people about theme on different conferences and webinars, yeah
+
+05.02.2026
 
