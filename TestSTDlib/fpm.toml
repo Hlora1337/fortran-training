@@ -1,0 +1,10 @@
+name = "testSTDlib"
+version = "0.1.0"
+
+[[executable]]
+name = "testSTDlib"
+source-dir = "src"
+main = "main.f90"
+
+[dependencies]
+stdlib = "*"
