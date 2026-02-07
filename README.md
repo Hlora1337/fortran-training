@@ -112,3 +112,10 @@ I played a lot with functions and subroutines cause i didn't really understand t
 
 Finally, Made Matrix Calculator that sums, multiplies and calculates diagonale sum of two arrays that randomly filled through random_seed()
 
+08.02.2026
+
+I didn't do much code. First of all, I did few tasks in Exercism. It was painful, but I kinda did everything. 
+
+I was on C++ Weekly Meetup for my friend, not very good experience but okay? At least I decided to really use optimization in my fpm setup after this meeting, so something useful really came 
+
+Oh, and also I'll join in BoF marathon from 10th to 12th of February. It all HPC thing and I think it will be useful to join it. At least I hope so. -_-;
