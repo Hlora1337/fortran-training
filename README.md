@@ -119,3 +119,5 @@ I didn't do much code. First of all, I did few tasks in Exercism. It was painful
 I was on C++ Weekly Meetup for my friend, not very good experience but okay? At least I decided to really use optimization in my fpm setup after this meeting, so something useful really came 
 
 Oh, and also I'll join in BoF marathon from 10th to 12th of February. It all HPC thing and I think it will be useful to join it. At least I hope so. -_-;
+
+Yep, also here's my stdlib shit. just a test. Take FPM, print in your terminal under root fpm build --flag "-O3", it'll compile for some time, then after some time print fpm run and you're all good
