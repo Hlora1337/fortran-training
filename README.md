@@ -123,3 +123,7 @@ Oh, and also I'll join in BoF marathon from 10th to 12th of February. It all HPC
 Yep, also here's my stdlib shit. just a test. Take FPM, print in your terminal under root fpm build --flag "-O3", it'll compile for some time, then after some time print fpm run and you're all good
 
 Also I started learning how to manipulate txts with Fortran :3
+
+12.02.2026
+
+Another stoopid fun with txts, and finally another tiny project that calculates from recordings temperature, pressure, and goes wild with avg/min/max. I guess I can even use it for other projects without pain in the ass. So, good for me I suppose
