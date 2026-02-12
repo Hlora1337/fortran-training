@@ -1,0 +1,4 @@
+ Hello, Fortran wrote file
+ hehe
+ New line is appended
+ New line is appended

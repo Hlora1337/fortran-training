@@ -1,0 +1,13 @@
+name = "BDC"
+version = "0.1.0"
+
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+
+[[executable]]
+name = "BDC"
+source-dir = "src"
+main = "main.f90"
+
