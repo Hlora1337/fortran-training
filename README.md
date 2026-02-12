@@ -127,3 +127,5 @@ Also I started learning how to manipulate txts with Fortran :3
 12.02.2026
 
 Another stoopid fun with txts, and finally another tiny project that calculates from recordings temperature, pressure, and goes wild with avg/min/max. I guess I can even use it for other projects without pain in the ass. So, good for me I suppose
+
+OH, and yeah, I finished BoF Days with 8 HPC and near it webinars. It was pretty interesting experience and I'll write revision of that in day or two. But preemptively, it was very interesting and CASS did great job organizing that.
