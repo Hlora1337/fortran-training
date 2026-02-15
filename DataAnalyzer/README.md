@@ -18,7 +18,7 @@ Statistics written through using stdlib library of Fortran
 ## Building and running
     ```bash
     # cloning
-    git clone https://github.com/username/data_analyzer.git
+    git clone https://github.com/Hlora1337/fortran-training/tree/main/DataAnalyzer
     cd data_analyzer
     # building
     fpm build
