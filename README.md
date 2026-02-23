@@ -133,3 +133,7 @@ OH, and yeah, I finished BoF Days with 8 HPC and near it webinars. It was pretty
 ## 15.02.2026 
 
 Finally made a Numeric data analyzer. You can check it out in same folder on repository
+
+## 23.02.2026
+
+To be honest, I'm a Lazy ass. But I made a Heat Sim. With no Readme. Gonna appear soon. This thing is pretty nice and I'm proud of it, even if just a bit. Yeah. Gonna learn derived types and do shit with Exercism next
