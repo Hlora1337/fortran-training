@@ -137,3 +137,7 @@ Finally made a Numeric data analyzer. You can check it out in same folder on rep
 ## 23.02.2026
 
 To be honest, I'm a Lazy ass. But I made a Heat Sim. With no Readme. Gonna appear soon. This thing is pretty nice and I'm proud of it, even if just a bit. Yeah. Gonna learn derived types and do shit with Exercism next
+
+## 12.03.2026
+
+Holy shit... Well, at least I have many VSCode themes (Yes, I now use VS Code instead of Code::Blocks). And I made a little N-Body movement in the box. Forgot Readme, again. How to live.
