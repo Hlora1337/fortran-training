@@ -1,0 +1,11 @@
+﻿TestLong.f90
+
+Result: 3809.66528
+Time: 5.91425657 seconds
+
+TestOMP.f90
+
+Result: 3777.37476
+Time: 2.58520508 seconds
+
+Interesting that results differ seriously :/

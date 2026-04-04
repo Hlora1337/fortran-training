@@ -141,3 +141,7 @@ To be honest, I'm a Lazy ass. But I made a Heat Sim. With no Readme. Gonna appea
 ## 12.03.2026
 
 Holy shit... Well, at least I have many VSCode themes (Yes, I now use VS Code instead of Code::Blocks). And I made a little N-Body movement in the box. Forgot Readme, again. How to live.
+
+## 04.04.2026
+
+Long procrastination period, now I know how to use OpenMP, and I played a bit, made notes for myself and in addition new shit HeatSim with Omp optimization (Very simple one) so a win I guess? And new main theme for two desktops. For light theme with TDE - Noctis Hibernus, for LXDE dark theme - Winter is Gone (Dark Blue with italics)
