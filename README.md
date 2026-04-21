@@ -149,3 +149,7 @@ Long procrastination period, now I know how to use OpenMP, and I played a bit, m
 ## 06.04.2026
 
 Integrated OpenMP in N-Body movements simulation. + Tested Qwen Code, pretty cool thing, Version 3.6 is surprisingly neet, especially as for free LLM.
+
+## 21.04.2026
+
+Now I use WMLive linux. Like debian but with WindowMaker, and it's fun shit. And I still try to make more code. With OpenMP. I might make a cute full new tiny project.
