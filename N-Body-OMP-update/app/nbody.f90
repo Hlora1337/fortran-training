@@ -3,6 +3,7 @@ program nbody
     use particle_mod
     use simulation
     use io
+    use omp_lib
     implicit none
 
     type(particle), allocatable :: particles(:)
@@ -20,7 +21,7 @@ program nbody
     nsteps = 1000
     output_interval = 10
 
-    dt = 0.1_real64
+    dt = 0.01_real64
     box_min = 0.0_real64
     box_max = 100.0_real64
     vmax = 1.0_real64

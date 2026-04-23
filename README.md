@@ -153,3 +153,7 @@ Integrated OpenMP in N-Body movements simulation. + Tested Qwen Code, pretty coo
 ## 21.04.2026
 
 Now I use WMLive linux. Like debian but with WindowMaker, and it's fun shit. And I still try to make more code. With OpenMP. I might make a cute full new tiny project.
+
+## 23.04.2026
+
+Made an update for N-Body OMP, with now some sort of gravitation and still with OpenMP used. Pretty neat for 30 min work.

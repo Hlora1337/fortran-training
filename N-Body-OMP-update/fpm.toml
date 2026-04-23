@@ -1,5 +1,5 @@
 name = "N-Body"
-version = "0.2.0"
+version = "0.3.0"
 license = "MIT"
 author = "Daniil Zakharov (Hlora1337)"
 maintainer = "ninomaehajime1337@outlook.com"
@@ -19,5 +19,4 @@ openmp = "*"
 
 [extra]
 compile = ["-O3", "-march=native", "-ffast-math", "-funroll-loops", "-fopenmp"]
-
 

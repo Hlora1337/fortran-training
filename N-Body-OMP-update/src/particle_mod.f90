@@ -6,6 +6,8 @@ module particle_mod
     type :: particle
         real(real64) :: x, y
         real(real64) :: vx, vy
+        real(real64) :: mass
+        real(real64) :: fx, fy
     end type particle
 
 contains
@@ -15,9 +17,10 @@ contains
         real(real64), intent(in) :: box_min, box_max
         real(real64), intent(in) :: vmax
 
-        real(real64) :: r(4)
+        real(real64) :: r(5)
 
         call random_number(r)
+        p%mass = 0.5_real64 + r(5) * 0.5_real64
 
         p%x = box_min + (box_max - box_min) * r(1)
         p%y = box_min + (box_max - box_min) * r(2)
@@ -31,6 +34,11 @@ contains
         type(particle), intent(inout) :: p
         real(real64), intent(in) :: dt
 
+        ! Update velocity based on force (a = F/m)
+        p%vx = p%vx + (p%fx / p%mass) * dt
+        p%vy = p%vy + (p%fy / p%mass) * dt
+
+        ! Update position based on velocity
         p%x = p%x + p%vx * dt
         p%y = p%y + p%vy * dt
 
