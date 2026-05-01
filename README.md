@@ -157,3 +157,7 @@ Now I use WMLive linux. Like debian but with WindowMaker, and it's fun shit. And
 ## 23.04.2026
 
 Made an update for N-Body OMP, with now some sort of gravitation and still with OpenMP used. Pretty neat for 30 min work.
+
+## 01.05.2026
+
+Kinda reinstalled my WMLive Linux because of conda and its weird work. And yeah, now learning MPI, yay
